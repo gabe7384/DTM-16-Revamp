@@ -13,7 +13,7 @@
     --background-secondary-alt: #3c3a5e !important;
     --background-tertiary: #1c1b29 !important;
     --background-accent: #413f66 !important;
-    --text-link: #ec4c56; !important;
+    --text-link: #9a94c5; !important;
     --channeltextarea-background: #ec4c56;
     --text-normal: #fbfbfb; !important;
     --interactive-normal: #c8c8c8;!important;
@@ -150,4 +150,14 @@
 }
 .circleIconButton-jET_ig {
     border: dashed 1px #5a5582;
+}
+.autocompleteRow-2OthDa {
+    background-color: #242338;
+}
+.theme-dark .container-2fRDfG {
+    border-color: #3c3a62;
+    background: #252439;
+}
+.colorBrand-2tjs5J {
+    color: #5a5582;
 }
