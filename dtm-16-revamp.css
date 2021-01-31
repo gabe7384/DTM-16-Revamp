@@ -136,3 +136,18 @@
 .theme-dark .input-2VB9rf {
     background: #242338 !important;
 }
+.statusItem-33LqPf {
+    background-color: #201f33;
+}
+.errorState-KkUH_2 {
+    background-color: #3c3a5e;
+}
+.theme-dark .errorState-KkUH_2 {
+    color: #c8c8ca;
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
+    background-color: #5a5582;
+}
+.circleIconButton-jET_ig {
+    border: dashed 1px #5a5582;
+}
