@@ -8,13 +8,13 @@
 }
 .theme-dark,
 :root {
-    --background-primary: #292841 !important;
-    --background-secondary: #242338 !important;
-    --background-secondary-alt: #3c3a5e !important;
-    --background-tertiary: #1c1b29 !important;
-    --background-accent: #413f66 !important;
+    --background-primary: #292841;
+    --background-secondary: #242338;
+    --background-secondary-alt: #3c3a5e;
+    --background-tertiary: #1c1b29;
+    --background-accent: #413f66;
     --text-link: #9a94c5; !important;
-    --channeltextarea-background: #ec4c56;
+    --channeltextarea-background: #5a5582;
     --text-normal: #fbfbfb; !important;
     --interactive-normal: #c8c8c8;!important;
     --scrollbar-auto-thumb: #596172; !important;
