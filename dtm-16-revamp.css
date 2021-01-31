@@ -164,3 +164,7 @@
 .layer-3QrUeG[aria-label="USER_SETTINGS"] .contentRegionScroller-26nc1e .toolsContainer-1edPuj, .layer-3QrUeG[aria-label="GUILD_SETTINGS"] .toolsContainer-1edPuj, .layer-3QrUeG[aria-label="CHANNEL_SETTINGS"] .toolsContainer-1edPuj, .layer-3QrUeG[aria-label="RTC_DEBUG"] .toolsContainer-1edPuj {
     background: #292841;
     border-top: solid 1px #3f4043;
+}
+.item-2hkk8m {
+    background: #5a5582 !important;
+}
