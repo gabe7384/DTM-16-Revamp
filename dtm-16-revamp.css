@@ -46,3 +46,32 @@
 .container-1D34oG .actionButton-uPB8Fs {
     background: #292841;
 }
+.container-1giJp5 {
+    background: #242338;
+    border-top: solid 1px #464a52;
+    border-bottom: none;
+}
+.actionButtons-14eAc_>.grow-q77ONN {
+    background: #3c3a5e;
+    border: solid 1px #000000;
+}
+.container-3baos1>.directionRow-3v3tfG>button {
+    border-right: solid 1px #000000;
+    background-color: #3c3a5e !important;
+    border-bottom: solid 1px #000000;
+}
+.searchBar-6Kv8R2 {
+    background-color: #292841;
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    background: #242338;
+}
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+    background-color: #1f1e30;
+}
+.activityPanel-28dQGo {
+    background: #242338;
+}
+.headerTop-3C2Zn0 {
+    background-color: #23223a;
+}
