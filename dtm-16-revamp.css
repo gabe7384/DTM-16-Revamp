@@ -56,9 +56,9 @@
     border: solid 1px #000000;
 }
 .container-3baos1>.directionRow-3v3tfG>button {
-    border-right: solid 1px #000000;
-    background-color: #3c3a5e !important;
-    border-bottom: solid 1px #000000;
+    border-right: solid 1px #3c3a62;
+    background-color: #2e2d47 !important;
+    border-bottom: solid 1px #3c3a62;
 }
 .searchBar-6Kv8R2 {
     background-color: #292841;
@@ -162,9 +162,24 @@
     color: #5a5582;
 }
 .layer-3QrUeG[aria-label="USER_SETTINGS"] .contentRegionScroller-26nc1e .toolsContainer-1edPuj, .layer-3QrUeG[aria-label="GUILD_SETTINGS"] .toolsContainer-1edPuj, .layer-3QrUeG[aria-label="CHANNEL_SETTINGS"] .toolsContainer-1edPuj, .layer-3QrUeG[aria-label="RTC_DEBUG"] .toolsContainer-1edPuj {
-    background: #292841;
-    border-top: solid 1px #3f4043;
+    background: #2c2b43;
+    border-top: solid 1px #3c3a62;
 }
-.item-2hkk8m {
-    background: #5a5582 !important;
+.animatorBottom-fS5rNO .item-1tOPte {
+    background-color: #201f33;
+}
+.colorDefault-2K3EoJ {
+    color: #c8c8ca;
+}
+.theme-dark .container-1D34oG .peopleListItem-2nzedh:hover {
+    background: #3c3a5e;
+}
+.menu-3sdvDG:not(#guild-header-popout) .item-1tOPte {
+    background-color: #27263e;
+}
+.scroller-1d5FgU {
+    background-color: #27263e;
+}
+.theme-dark .searchBox-3Y2Vi7 {
+    background-color: #2a2941;
 }
