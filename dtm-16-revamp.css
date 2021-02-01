@@ -175,6 +175,10 @@
     border: solid 1px #3c3a62;
 
 }
+.clickable-25tGDB .header-2V-4Sw:hover, .clickable-25tGDB.selected-31Nl7x .header-2V-4Sw {background: #242338}
+.clickable-25tGDB .header-2V-4Sw {
+    background: #292841;
+}
 .container-1giJp5>.directionRow-3v3tfG>.flex-1xMQg5 {
     background: #2e2d47;
     border-color: #3c3a62;
