@@ -37,9 +37,6 @@
     background: #242338;
     border: solid 2px #3c3a62;
 }
-.theme-dark .footer-1FPmkC {
-    background-color: #2f2d44;
-}
 .attachButtonInner-PQjIyk svg path {
     fill: #66639c !important;
 }
@@ -55,9 +52,9 @@
     border-bottom: none;
 }
 .container-3baos1>.directionRow-3v3tfG>button {
-    border-right: solid 1px #3c3a62;
+    border-right: solid 1px #000;
     background-color: #2e2d47 !important;
-    border-bottom: solid 1px #3c3a62;
+    border-bottom: solid 1px #000;
 }
 .searchBar-6Kv8R2 {
     background-color: #292841;
@@ -138,6 +135,9 @@
 .errorState-KkUH_2 {
     background-color: #3c3a5e;
 }
+.theme-dark {
+    --scrollbar-auto-thumb: #3c3a62;
+}
 .theme-dark .errorState-KkUH_2 {
     color: #c8c8ca;
 }
@@ -193,10 +193,7 @@
 }
 .container-1giJp5>.directionRow-3v3tfG>.flex-1xMQg5 {
     background: #2e2d47;
-    border-color: #3c3a62;
-}
-.scroller-2hZ97C {
-    background-color: #292841;
+    border-color: #111;
 }
 .theme-dark .container-1D34oG .peopleListItem-2nzedh:hover {
     background: #3c3a5e;
