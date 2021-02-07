@@ -2,6 +2,8 @@
 
 I still will be updating this through the week
 
+**Few bugs on game activity module**
+
 Yet another mini theme for DTM-16 
 
 **Preview**
