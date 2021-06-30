@@ -1,6 +1,6 @@
 # DTM-16-Revamp
 
-I still will be updating this through the week
+Outdated
 
 **Few bugs on game activity module**
 
